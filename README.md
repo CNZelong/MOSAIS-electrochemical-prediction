@@ -18,17 +18,6 @@ The workflow supports:
 - multi-objective ranking using **entropy-weighted TOPSIS** and **Pareto frontier** analysis
 - export of summary tables, candidate rankings, and publication-style figures
 
-## Current repository status
-
-At present, this repository is organized as a **single-file implementation** of the MOSAIS Model-1 workflow. This is intentional: the script is kept compact and readable for reviewer-facing use.
-
-Current main script:
-
-- `MOSAIS_multi_objective_discovery_for editor and reviewers.py`
-
-For cleaner long-term maintenance, it is recommended to rename this file later to something simpler, such as:
-
-- `MOSAIS_model1_workflow.py`
 
 ## Predicted targets
 
