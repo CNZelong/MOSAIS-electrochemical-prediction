@@ -1,11 +1,17 @@
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-openpyxl
-lightgbm
-xgboost
-shap
-umap-learn
-torch
+# Core scientific stack
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.2
+matplotlib>=3.6
+openpyxl>=3.1
+
+# Gradient boosting / tree models
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2
+
+# Model interpretation / visualization / representation learning
+shap>=0.44
+umap-learn>=0.5
+torch>=2.0
