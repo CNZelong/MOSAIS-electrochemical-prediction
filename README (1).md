@@ -227,19 +227,3 @@ This repository is intended to store:
 
 This repository is **not** intended to store every temporary script, every intermediate failed attempt, or every unpublished internal asset.
 
----
-
-## Simple Chinese note
-
-这个仓库目前建议理解成两个层次：
-
-- `src/`：较正式、较成熟的 MOSAIS 主流程代码
-- `exploration/`：早期探索与试错代码，记录“为什么先选这些算法、怎么比较、最后为什么走向后续多目标流程”
-
-对你现在这个阶段来说，最合理的做法不是把所有历史脚本全都扔进去，而是：
-
-1. 保留真正有方法学价值的早期探索脚本；
-2. 保留较成熟的主流程脚本；
-3. 用 README 把两者之间的关系讲清楚。
-
-这样这个仓库会更像一个规范的科研代码仓库，而不是一个杂乱的脚本堆放处。
