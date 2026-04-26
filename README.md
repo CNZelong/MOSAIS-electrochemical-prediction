@@ -1,6 +1,6 @@
 # MOSAIS-electrochemical-prediction
 
-Machine-learning code for electrochemical-property prediction and candidate ranking of MOF-polymer solid-state electrolytes within the MOSAIS framework.
+Machine-learning code for electrochemical-property prediction and candidate ranking of MOF-polymer solid-state electrolytes within the MOSAIS framework. We provide the necessary data here, including the initial screening forms, rules, and required data, as well as the methods used to obtain this data. However, some intermediate details cannot be fully provided due to copyright restrictions and the original author's limited permission. Please contact the author if you have any questions.
 
 ## Overview
 
